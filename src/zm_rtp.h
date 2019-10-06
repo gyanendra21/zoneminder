@@ -19,7 +19,7 @@
 
 #ifndef ZM_RTP_H
 #define ZM_RTP_H
-
+#define HELLO_H
 #include "zm.h"
 
 #define RTP_VERSION  2
